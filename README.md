@@ -46,8 +46,6 @@
   <img width="12" />
     <img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://en.wikipedia.org/wiki/Databricks#/media/File:Databricks_Logo.png" height="40" alt="databricks logo"  />
-  <img width="12" />
    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Snow_flake_icon.png" height="40" alt="snowflake logo"  />
